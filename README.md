@@ -1,4 +1,8 @@
+<img src="images.jpeg">
+
 # Numpy-Tutorial-for-Data-Science
+
+
 ## Why this notebook?
 Well,this tutorial will help you to understand the basic python library ***numpy*** for statistical analysis.Statistical analysis is the one the major part in data science and machine learning.This notebook will give a basic understanding and all the things you need to know about numpy for statring the statiscial analysis of data.
 
